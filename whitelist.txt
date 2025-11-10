@@ -1,0 +1,7 @@
+[Adblock Plus]
+! Title: Safebox DNS Whitelist
+! Description: Whitelist
+! Version: 2025.11.10
+! Syntax: AdBlock
+!
+||tailscale.com^
